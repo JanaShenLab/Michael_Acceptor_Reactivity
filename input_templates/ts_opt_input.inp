@@ -1,0 +1,26 @@
+! wB97X-D3BJ 6-311+G** autoaux RIJCOSX NOSOSCF optTS numfreq
+
+%geom
+MaxIter 200 #50 is the default number, use more if necessary
+end
+
+%scf
+Convergence VeryTight
+MaxIter 1000
+end
+
+%cpcm
+smd true
+SMDsolvent "WATER"
+end
+
+%freq
+Increment 0.001
+end
+
+%maxcore 2000
+%pal nprocs 6
+end
+
+* xyzfile -1 1 input.xyz
+
