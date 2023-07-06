@@ -1,4 +1,7 @@
-# olefin_reactivity
+# Quantum Descriptors for Michael Acceptor Reactivity
+This repository contains data for the publication:
+
+Ruibin Liu, Erik Vazquez-Montelongo, Shuhua Ma, Jana Shen, "Quantum Descriptors for Predicting and Understanding the Structure-Activity Relationships of Michael Acceptor Warheads" Under revision in J. Chem. Inf. Model.; ChemRxiv DOI: [10.26434/chemrxiv-2023-lh0qp](10.26434/chemrxiv-2023-lh0qp)
 
 ## Inputs
 
