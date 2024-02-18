@@ -1,7 +1,7 @@
-# Quantum Descriptors for Michael Acceptor Reactivity
+# Quantum Descriptors for Michael Acceptor Reactivities
 This repository contains data for the publication:
 
-Ruibin Liu, Erik Vazquez-Montelongo, Shuhua Ma, Jana Shen, "Quantum Descriptors for Predicting and Understanding the Structure-Activity Relationships of Michael Acceptor Warheads" Under revision in J. Chem. Inf. Model.; ChemRxiv DOI: [10.26434/chemrxiv-2023-lh0qp](https://chemrxiv.org/engage/chemrxiv/article-details/644699e9df78ec501551bdbb)
+Ruibin Liu, Erik Vazquez-Montelongo, Shuhua Ma, Jana Shen, "Quantum Descriptors for Predicting and Understanding the Structure-Activity Relationships of Michael Acceptor Warheads" J. Chem. Inf. Model. 2023, 63, 15, 4912–4923. https://doi.org/10.1021/acs.jcim.3c00720
 
 ## Inputs
 
